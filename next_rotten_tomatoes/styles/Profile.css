@@ -1,0 +1,51 @@
+.profile{
+display: flex;
+flex-direction: column;
+margin-left: 15%;
+}
+
+.all{
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    width:100%;
+    height:100%;
+    color: black!important;
+}
+
+
+body{
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}
+
+.formup{
+    display:grid;
+   justify-content: center;
+   margin-top:5%;
+}
+.update{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+input{
+    background-color: white;
+    border-radius:5em ;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+
+.navbar1{
+width: 100%;
+background-color: black;
+height: 10%;
+}
+
+p{
+    margin:2%;
+}

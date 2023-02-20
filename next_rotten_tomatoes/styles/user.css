@@ -1,0 +1,17 @@
+
+
+
+html{
+    background-color: white;
+}
+
+body{
+    background-color: white!important;
+}
+
+
+div{
+    background-color: white;
+    display:flex;
+    flex-direction:column;
+}
